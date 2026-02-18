@@ -21,16 +21,19 @@ This project involves analyzing historical sales data to understand trends, patt
    - Bar plots for product and category sales.
    - Line plots for sales over time.
    - Heatmaps for correlation analysis.
+5. *Machine Learning Model*:
+   - *Linear Regression* was used to predict future sales based on historical trends and features in the dataset.
 
 ## Technologies Used
 - *Programming Language*: Python
 - *Development Environment*: Jupyter Notebook
-- *Libraries*: Pandas, NumPy, Matplotlib, Seaborn
+- *Libraries*: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Output
 - Visualizations showing sales trends over time.
 - Bar charts indicating high-performing products and categories.
 - Heatmaps showing feature correlations.
+- Predicted sales values from the Linear Regression model.
 - Insights into seasonal demand and peak sales periods.
 
 ## Conclusion
